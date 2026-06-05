@@ -1,0 +1,817 @@
+Project* = "EEQ Master Test (EMT)"
+Issue Type* ="Test Item"
+Test Department="ADAS Features Validation
+ADAS Integration Validation
+ADAS Open Road Test
+ADAS Pre - Homo & Pre-NCAP
+Automation Test
+EE Commissioning
+EE Integration Validation
+EE System - Failure Reaction & HV Safety Validation
+EE System - Network/ Diagnostic & Flashing Validation
+EE Vehicle Validation
+FUSA Integration testing & Validation
+In-Region EE Validation
+System EE - Info Body FOTA Validation
+System EE - Safety & Network Validation
+EE System - FOTA Validation
+EE System- Info Body Validation
+CTF
+EE System - Charging Validation
+EE System - ePT/CHS/Dynamic Open Road Test"
+Test Category="System EE - FOTA & SOTA
+System EE - Body
+System EE - Infotainment
+FRS Vehicle Testing ePWT
+FRS Vehicle Testing Chassis
+FRS Vehicle Testing Diagnostic
+FRS Vehicle Testing Network
+FRS Vehicle Testing Flashing
+FVT EM_TM
+FVT General Electric
+FVT Others
+EE Pre-homologation Testing
+Network
+Flashing
+Diagnostic
+Failure Reaction Validation (reaction of DTC list)
+HV Safety
+DFMEA Validation
+FUSA Vehicle Integration Test
+FUSA Validation Test
+ePWT
+In-Region EE Validation Test Category
+LV Testing
+HV Testing
+Basic Checks
+EOL
+Infotainment
+Body
+Network & Diagnostic
+Flashing & Cybersecurity
+DTC
+FUSA
+Automation on Car
+FOTA
+ePT
+ADAS - Static Test
+ADAS - Smoke Test
+ADAS - Sanity Test
+Lateral features verification
+Longitudinal feature verification
+Parking features verification
+Lateral features Fleet test
+Longitudinal features Fleet test
+Parking features Fleet test
+EE system Dynamic test
+Body & Infortainment Dynamic test
+In-region Dynamic test
+ADAS Pre-NCAP
+ADAS Pre-homologation
+EE Flying Doctor
+Pre-integration check
+Chassis
+Charging
+EE Dynamic
+CCB Validation
+Software
+ADAS
+Hardware
+Full testing
+High priority TCs_FIP testing
+Ticket verification
+MHU Checklist
+Homologation/NCAP
+HMI testing
+Performance testing"
+Test Domain="ACC - Adaptive Cruise Control
+ADAS
+ADAS - Sanity Test
+ADAS - Smoke Test
+ADAS - Static Test
+ADAS Pre-homologation
+AHB - Auto high beam
+ASEAN Pre-NCAP
+ASU_Electronic Air Suspension
+Automation on Car
+AVAS
+Basic Charging
+Basic Checks Testing
+Battery Charging
+Battery Management System
+Body
+Body & Infortainment Dynamic test
+Braking
+BSD - Blind Spot Detection
+CAN testing
+CCB
+Charge for smart devices
+Charging conformance (IEC 61518/ISO 15118/DIN 70121)
+Charging Management
+Chassis
+Commission Sequence
+Connection
+Connectivity Function
+Creep mode
+Cruise Control ( Base only)
+Cybersecurity
+D to N
+D&C
+Diagnostic
+Diagnostic EBUS 8M
+Diagnostic LIMO Green
+Diagnostic Minio Green
+Diagnostic VF3
+Diagnostic VF5/e34
+Diagnostic VF6/7
+Diagnostic VF8/9
+Diagnostic VF9 LH
+DOW - Door Open Warning
+Driving Control
+DTC
+DTC analysis
+DTC Snapshot
+Dynamic Test
+ECE R100.3
+EDS (Harness)
+EE Flying Doctor
+EE Performance
+EE system Dynamic test
+EKS
+Electric Adjust Steering Column (EASC)
+Electric Parking Brake (EPB)
+Electronic Park Brake
+EMI_EMC
+Energy Management Dynamic Test
+Energy Management Static test
+EOL
+EOL Testing
+EPS_Electronic steering power system
+ePT
+ePWT Additional
+ESC_Electronic Stability Control
+Ethernet Validation
+EU
+Euro NCAP
+EVSESimulate
+Extended setting
+Exterior
+Factory Test Road
+Failure Reaction Validation (reaction of DTC list)
+Flashing
+Flashing & Cybersecurity
+Flashing EBUS 8M
+Flashing LIMO Green
+Flashing Minio Green
+Flashing VF3
+Flashing VF5/e34
+Flashing VF6/7
+Flashing VF8/9
+Flashing VF9 LH
+FMEA - MSR
+FMVSS 305
+Focusing items
+FOTA
+FPA - Front Park Assist
+FRS Vehicle Testing Flashing
+Full testing
+FUSA
+FUSA Validation Test - ADAS
+FUSA Validation Test - Non ADAS
+FUSA Validation Test - Non ADAS (EE1.0)
+FUSA Validation Test - Non ADAS (EE2.0)
+FUSA Vehicle Integration Test - ADAS
+FUSA Vehicle Integration Test - ADAS (EE1.0)
+FUSA Vehicle Integration Test - Non ADAS (EE2.0)
+Gear Box
+Gear Management
+General Electric
+High priority TCs_FIP testing
+HMI testing
+Homologation/NCAP
+HV Charging
+HV Safety
+HV Safety Functional
+HV System Coordination
+HV Testing
+HVAC Test
+HWP - Highway Pilot
+In-region Dynamic test
+In-Region EE Validation Test domain
+Infotainment
+Infotainment & Smart feature
+Interior
+Interior & Convenience
+IOP
+ISA - Intelligent speed assistance
+Lateral features Fleet test
+Lateral features verification
+LDW - Lane Departure Warning
+Light
+LIN testing
+LKA - Lane Keep Assist
+Longitudinal feature verification
+Longitudinal features Fleet test
+LV Energy Management
+LV Power Management
+LV Testing
+LVBattery Charging
+MHU Checklist
+Motor Control and Torque Management
+Network & Diagnostic
+Open Test Road
+Operation Function
+Other Chassis
+Parking features Fleet test
+Parking features verification
+Performance testing
+PnC
+Power Control
+Powertrain
+RCTA - Rear Cross Traffic Alert
+Regenerative Braking
+RPA - Rear Park Assist
+Safety & Security
+Scan Network & Secure on TMS
+Secure CAN testing
+Simmulate messege Secure CAN
+Sleep mode
+Smart key
+Software update
+Sound Function
+Special charging test
+Speed Limiter ( Base only)
+Startup and Shutdown of HV System
+Static Test
+Steering
+Steering system
+SVM and RVC - Surround (Rear) View Monitor
+System EE - FOTA
+System EE - SOTA
+Thermal Management
+Thermal Management Dynamic Test
+Thermal Management Static test
+Thermal ManagementLV Power Management
+Ticket verification
+Tire Pressure Monitoring System (TPMS)
+TPMS
+Trợ lý ảo (Virtual Assistant)
+TSR - Traffic Sign Recognition
+US
+US Pre-NCAP
+Vehicle and High Voltage Safety
+Vehicle Application
+Vehicle HMI
+Vehicle Speed Calculation
+Vehicle speed indication
+VOC_SIL/ Market Issue verified
+Water Leak Test
+Window control
+Auto remote Diagnostic"
+FRS Name = ""
+Program = "All
+EBUS
+EBUS_10M
+EBUS_12M
+EBUS_6M
+EBUS_8M
+LIMO7
+MGREEN
+MinioGreen
+MiniVan
+VF WILD
+VF3
+VF5
+VF5 New
+VF6
+VF6 New
+VF7
+VF8NP
+VF8
+VF8 MY26
+VF8 TEST
+VF9
+VFe34
+VF9NPHolded
+VF9NP
+VF6NEW
+Lac Hong 800 New Platform
+Lac Hong 900 New Platform
+Express
+EBUS_12M_COACH
+POC1
+POC2
+LH800S
+LH900S
+VF5 New Platform
+VF Victory
+Xpress Truck/Store
+Xpress Tour
+Xpress Van
+VF9 NP"
+Build Phase="EP
+EP1
+EP2
+FC
+LS
+LS1
+LS2
+LS2.0
+LS2.1
+LS3
+LS3.0
+LS3.1
+LS4
+Mule
+MULE 4
+PP0
+PP1.0
+PP1.1
+PP2.0
+PP3.0
+PP3.1
+Pre-SOP
+PT
+PTO
+PTO1.0
+PTO1.1
+PTO2.0
+SOP
+SOP EU
+SOP US/CA
+SOP VN"
+Market="None
+AD - Andorra
+AE - United Arab Emirates
+AF - Afghanistan
+AG - Antigua and Barbuda
+AI - Anguilla
+AL - Albania
+AM - Armenia
+AO - Angola
+AQ - Antarctica
+AR - Argentina
+AS - American Samoa
+AT - Austria
+AU - Australia
+AW - Aruba
+AX - Åland Islands
+AZ - Azerbaijan
+BA - Bosnia and Herzegovina
+BB - Barbados
+BD - Bangladesh
+BE - Belgium
+BF - Burkina Faso
+BG - Bulgaria
+BH - Bahrain
+BI - Burundi
+BJ - Benin
+BL - Saint Barthélemy
+BM - Bermuda
+BN - Brunei Darussalam
+BO - Bolivia (Plurinational State of)
+BQ - Bonaire, Sint Eustatius and Saba
+BR - Brazil
+BS - Bahamas
+BT - Bhutan
+BV - Bouvet Island
+BW - Botswana
+BY - Belarus
+BZ - Belize
+CA - Canada
+CC - Cocos (Keeling) Islands
+CD - Congo (the Democratic Republic of the)
+CF - Central African Republic
+CG - Congo (the)
+CH - Switzerland
+CI - Côte d'Ivoire
+CK - Cook Islands (the)
+CL - Chile
+CM - Cameroon
+CN - China
+CO - Colombia
+CR - Costa Rica
+CU - Cuba
+CV - Cabo Verde
+CW - Curaçao
+CX - Christmas Island
+CY - Cyprus
+CZ - Czechia
+DE - Germany
+DJ - Djibouti
+DK - Denmark
+DM - Dominica
+DO - Dominican Republic (the)
+DZ - Algeria
+EC - Ecuador
+EE - Estonia
+EG - Egypt
+EH - Western Sahara
+ER - Eritrea
+ES - Spain
+ET - Ethiopia
+FI - Finland
+FJ - Fiji
+FK - Falkland Islands (the)
+FM - Micronesia (Federated States of)
+FO - Faroe Islands (the)
+FR - France
+GA - Gabon
+GB - United Kingdom of Great Britain and Northern Ireland (the)
+GD - Grenada
+GE - Georgia
+GF - French Guiana
+GG - Guernsey
+GH - Ghana
+GI - Gibralta
+GL - Greenland
+GM - Gambia (the)
+GN - Guinea
+GP - Guadeloupe
+GQ - Equatorial Guinea
+GR - Greece
+GS - South Georgia and the South Sandwich Islands
+GT - Guatemala
+GU - Guam
+GW - Guinea-Bissau
+GY - Guyana
+HK - Hong Kong
+HM - Heard Island and McDonald Islands
+HN - Honduras
+HR - Croatia
+HT - Haiti
+HU - Hungary
+ID - Indonesia
+IE - Ireland
+IL - Israel
+IM - Isle of Man
+IN - India
+IO - British Indian Ocean Territory (the)
+IQ - Iraq
+IR - Iran (Islamic Republic of)
+IS - Iceland
+IT - Italy
+JE - Jersey
+JM - Jamaica
+JO - Jordan
+JP - Japan
+KE - Kenya
+KG - Kyrgyzstan
+KH - Cambodia
+KI - Kiribati
+KM - Comoros (the)
+KN - Saint Kitts and Nevis
+KP - Korea (the Democratic People's Republic of)
+KR - Korea (the Republic of)
+KW - Kuwait
+KY - Cayman Islands (the)
+KZ - Kazakhstan
+LA - Lao People's Democratic Republic (the)
+LB - Lebanon
+LC - Saint Lucia
+LI - Liechtenstein
+LK - Sri Lanka
+LR - Liberia
+LS - Lesotho
+LT - Lithuania
+LU - Luxembourg
+LV - Latvia
+LY - Libya
+MA - Morocco
+MC - Monaco
+MD - Moldova (the Republic of)
+ME - Montenegro
+MF - Saint Martin (French part)
+MG - Madagascar
+MH - Marshall Islands (the)
+MK - Republic of North Macedonia
+ML - Mali
+MM - Myanmar
+MN - Mongolia
+MO - Macao
+MP - Northern Mariana Islands (the)
+MQ - Martinique
+MR - Mauritania
+MS - Montserrat
+MT - Malta
+MU - Mauritius
+MV - Maldives
+MW - Malawi
+MX - Mexico
+MY - Malaysia
+MZ - Mozambique
+NA - Namibia
+NC - New Caledonia
+NE - Niger (the)
+NF - Norfolk Island
+NG - Nigeria
+NI - Nicaragua
+NL - Netherlands (the)
+NO - Norway
+NP - Nepal
+NR - Nauru
+NU - Niue
+NZ - New Zealand
+OM - Oman
+PA - Panama
+PE - Peru
+PF - French Polynesia
+PG - Papua New Guinea
+PH - Philippines (the)
+PK - Pakistan
+PL - Poland
+PM - Saint Pierre and Miquelon
+PN - Pitcairn
+PR - Puerto Rico
+PS - Palestine, State of
+PT - Portugal
+PW - Palau
+PY - Paraguay
+QA - Qatar
+RE - Réunion
+RO - Romania
+RS - Serbia
+RU - Russian Federation (the)
+RW - Rwanda
+SA - Saudi Arabia
+SB - Solomon Islands
+SC - Seychelles
+SD - Sudan (the)
+SE - Sweden
+SG - Singapore
+SH - Saint Helena, Ascension and Tristan da Cunha
+SI - Slovenia
+SJ - Svalbard and Jan Mayen
+SK - Slovakia
+SL - Sierra Leone
+SM - San Marino
+SN - Senegal
+SO - Somalia
+SR - Suriname
+SS - South Sudan
+ST - Sao Tome and Principe
+SV - El Salvador
+SX - Sint Maarten (Dutch part)
+SY - Syrian Arab Republic
+SZ - Eswatini
+TC - Turks and Caicos Islands (the)
+TD - Chad
+TF - French Southern Territories (the)
+TG - Togo
+TH - Thailand
+TJ - Tajikistan
+TK - Tokelau
+TL - Timor-Leste
+TM - Turkmenistan
+TN - Tunisia
+TO - Tonga
+TR - Turkey
+TT - Trinidad and Tobago
+TV - Tuvalu
+TW - Taiwan
+TZ - Tanzania, United Republic of
+UA - Ukraine
+UG - Uganda
+UM - United States Minor Outlying Islands (the)
+US - United States of America (the)
+UY - Uruguay
+UZ - Uzbekistan
+VA - Holy See (the)
+VC - Saint Vincent and the Grenadines
+VE - Venezuela (Bolivarian Republic of)
+VG - Virgin Islands (British)
+VI - Virgin Islands (U.S.)
+VN - Viet Nam
+VU - Vanuatu
+WF - Wallis and Futuna
+WS - Samoa
+YE - Yemen
+YT - Mayotte
+ZA - South Africa
+ZM - Zambia
+ZW - Zimbabwe
+EU - EUROPE
+All Markets
+LA - Laos
+CIS
+ALL MARKET
+VN, PHY, INDO, INDIA, US, EU
+INDO, INDIA, US, EU
+US, EU
+INDIA
+VN, US, EU"
+Summary* =""
+Master Test="Exterior Lighting System
+
+Side Mirror System
+
+Power Window System
+
+Bonnet & TailGate System
+
+Wiper and Washer System
+
+Vehicle Horn
+
+Seats
+
+Steering Wheel Adjusment & Heating
+
+Panoramic Sunroof
+
+Interior Lightings
+
+Power Outlet
+
+Convenience
+
+Cabin Thermal
+
+Tire Pressure Monitoring System
+
+Child Presence Detection
+
+Vehicle Door Locking & KeyFob features
+
+Anti-Theft System
+
+Immobilizer and Passive Entry/Passive Start
+
+Crash Handling & Airbag Deployment
+
+Safety Belt and Reminder System
+
+Emergency Call
+
+Acoustic Vehicle Alert System (AVAS)
+
+Alcohol Interlock Systems
+
+Setting & Control
+
+Driving Information
+
+Support Service & Guideline
+
+Onscreen Keyboard
+
+Home Screen Application
+
+Engineer App
+
+Sound System
+
+Connectivity Management
+
+Charging Management
+
+Basic User Profiles
+
+Advanced User Profiles
+
+User Profiles & Permission
+
+Multimedia
+
+Media Playback Control
+
+Smartphone Mirroring
+
+Basic Navigation
+
+Advanced Navigation
+
+Game
+
+Utilities
+
+OTA Update
+
+VOICE ASSISTANT (VA)
+
+COMPANION APP (C-APP)
+
+POWER
+
+DRIVING
+
+Vehicle Special Modes
+
+Vehicle Power Mode
+
+Towing Assist
+
+HV System Management
+
+Braking System
+
+Steering System
+
+Remote Control Vehicle
+
+Driving Assistance
+
+Engine Compartment Thermal
+
+LV System Management
+
+Parking Assistance
+
+Regenerative Management
+
+Infotainment in general
+
+Car Service & Maintenance from C-APP
+
+Cooling & Heating System
+
+Acceleration Control
+
+Multimedia;Online Media;Audio Streaming (Audio Book; Podcast; Online Radio;...)
+
+Car Service & Maintenance from C-APP;Schedule Car Maintenance; Inspection and Repair at The Workshop;...
+
+Account Setting & Paring
+
+Emergency System for Armored Vehicle
+
+Intercom
+
+Navigation Functions on C-APP
+
+Gear Management
+
+Battery Charge & Scheduling
+
+Vehicle Suspension
+
+Drive Modes
+
+Games
+
+Partition window & Curtain
+
+Battery Thermal
+
+Motor Thermal
+
+Basic Navigation;Display & Search for POI (by name; category);...
+
+Navigation Functions on C-APP;EV Routing;...
+
+Multimedia;Online Media;Video Streaming (Movie; TV;...)
+
+Advanced Navigation;Find parking area (based on distances; available slots; prices);...
+
+VOICE ASSISTANT (VA);Information inquiries & advanced usecases with VA;Basic Q&A with VA...
+
+VOICE ASSISTANT (VA);Information inquiries & advanced usecases with VA;Advanced Q&A with VA...
+
+Navigation Functions on C-APP;Search Location on Map; Guide and Plan the Journey for User;..."
+Start Date="Date"
+End Date="Date"
+Workload=""
+Effort (Day)=""
+Description=""
+PENDING="VN
+CATL
+VF8
+US
+VF9
+RHD
+VF6
+SHINRY
+BASE
+VF7
+EU
+AMP
+TPV1
+CPDU
+GOTION
+V1
+VF5
+SDI
+VF3
+VINES"
+Assignee="ducnpa"
+Labels="VN
+CATL
+VF8
+US
+VN
+EU
+US
+VF9_PLUS
+VF9_ECO
+VF8_PLUS
+VF9
+VF_MGL_Approval
+AMP
+VF8_ECO
+SHINRY
+EU
+TPV1
+VF6
+LHD
+SDI"
+Comments=""
